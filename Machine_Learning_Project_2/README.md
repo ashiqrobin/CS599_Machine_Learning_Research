@@ -51,10 +51,10 @@ shape : (10,)  range : (0.0, 1.0)
 
 
 # Link of the project Proposal
- URL: https://github.com/ashiqrobin/CS599-Machine_Learning-Project-2/blob/master/Project%202.pdf
+ URL: https://github.com/ashiqrobin/CS599_Machine_Learning_Research/blob/main/Machine_Learning_Project_2/Project%202.pdf
  
 # Image of the Project
-![imgae](https://github.com/ashiqrobin/CS599-Machine_Learning-Project-2/blob/master/figure.JPG)
+![imgae](https://github.com/ashiqrobin/CS599_Machine_Learning_Research/blob/main/Machine_Learning_Project_2/figure.JPG)
 
 # Citation: 
 Wan Zhu, “Classification of MNIST Handwritten Digit Database using Neural Network”.  
