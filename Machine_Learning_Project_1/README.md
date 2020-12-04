@@ -50,10 +50,10 @@ The last column of 'spambase.data' denotes whether the e-mail was considered spa
 
 
 # Link of the project Proposal
- URL: https://github.com/ashiqrobin/CS599-Project1/blob/master/PDF%20From%20Week_1.pdf
+ URL: https://github.com/ashiqrobin/CS599_Machine_Learning_Research/blob/main/Machine_Learning_Project_1/PDF%20From%20Week_1.pdf
  
 # Image of the Project
-![imgae](https://github.com/ashiqrobin/CS599-Project1/blob/master/Image.JPG)
+![imgae](https://github.com/ashiqrobin/CS599_Machine_Learning_Research/blob/main/Machine_Learning_Project_1/Image.JPG)
 
 Citation of the image:
 Hastie el. all Figure: 9.4, Page: 314.
