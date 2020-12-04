@@ -11,4 +11,4 @@ Here, we use the dataset having information of emails. This emails are collected
 Here, we use MNIST handwritten digit recognition having the pixel value of all handwritten digits. We use CNN to classify the digits. The final output is a figure where the scenario of error-rate vs epoch size is represented.
 
 
-The codes are maintained since 2019
+###### The codes are maintained since 2019
